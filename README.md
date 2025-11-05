@@ -118,7 +118,7 @@ You can also download our trained model (if you just want to test):
 * our trained BCHNet model : BCHNet_best.pth https://pan.baidu.com/share/init?surl=647L5uRBlp2TbKwiSKBP5A (password: zchh)
 
 
-## Testing with TSF
+## Testing with SFT
 > ### 1. Deepglobe ( lr = 1e-7 )
 > ```bash
 > python finetuning.py 
