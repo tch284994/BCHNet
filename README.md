@@ -146,7 +146,7 @@ You can also download our trained model (if you just want to test):
 
 
 ## BCHNet-D (Domain-specific models)
-If you are interested in BCHNet-D (Domain-specific models), you can download our domain-specific item.
+If you are interested in BCHNet-D (Domain-specific models), you can download our domain-specific project.
 * direct: https://pan.baidu.com/s/1GDDUTb4hg1E3xINF4XIBaw (password: zchh)
 
 ## Citation
